@@ -5,3 +5,7 @@ pymc
 arviz
 jupyter
 statsmodels
+streamlit 
+plotly
+flask 
+flask-cors
